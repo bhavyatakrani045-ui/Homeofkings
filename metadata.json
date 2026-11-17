@@ -1,0 +1,6 @@
+{
+  "name": "Home of King's",
+  "description": "Nothing better than king's — Luxury 950 platinum automatic timepieces, interactive caliber architecture, AI Horology Concierge, and Watch Photo Analyzer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
